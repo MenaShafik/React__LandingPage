@@ -1,0 +1,11 @@
+.container{
+    display: inline;
+}
+.about_l{
+    display: inline-block;
+    margin-top: 30px;
+}
+p,h1{
+    font-size: large;
+    margin-top: 20px;
+}
