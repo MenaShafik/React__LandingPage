@@ -1,0 +1,11 @@
+.navbar-expand-lg .navbar-collapse{
+    text-align: center;
+}
+.nav-item .nav-link{
+    margin: 10px;
+    text-align: center;
+}
+.nav-item .nav-link .nav_img{
+    width: 15%;
+    float: right;
+}

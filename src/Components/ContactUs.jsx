@@ -14,7 +14,7 @@ export class ContactUs extends Component {
         <FloatingLabel
         controlId="floatingInput"
         label="Email address"
-        className="col-4 contactUs"
+        className="col-5 contactUs"
       >
         <Form.Control type="email" placeholder="name@example.com" />
       </FloatingLabel>
@@ -22,9 +22,9 @@ export class ContactUs extends Component {
       <FloatingLabel
         controlId="floatingInput"
         label="User name"
-        className=" col-4 contactUs"
+        className="col-5 contactUs"
       >
-        <Form.Control type="user name" placeholder="name" />
+        <Form.Control type="user name" placeholder="name name" />
       </FloatingLabel>
 
         

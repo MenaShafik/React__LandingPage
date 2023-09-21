@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import { Card } from 'react-bootstrap';
+import './OurProducts.css';
 import { Button } from 'react-bootstrap';
 export class OurProducts extends Component {
   render() {

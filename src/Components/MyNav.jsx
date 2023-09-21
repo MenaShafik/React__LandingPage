@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import './MyNav.css';
 export class MyNav extends Component {
   render() {
     return (
